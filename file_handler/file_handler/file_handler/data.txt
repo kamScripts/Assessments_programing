@@ -1,0 +1,10 @@
+FirstName SecondName, Introduction to programming, 50, 25
+FirstName SecondName, Introduction to web scripting, 60, 25
+FirstName SecondName, Introduction to Web development, 70, 50
+Kamil Gebski, Introduction to programming, 90, 25
+Kamil Gebski, AEDT,80, 25
+Kamil Gebski, Introduction to web development,90, 25
+Kamil Gebski, Introduction to web scripting, 90, 25
+Jane Doe, Introduction to programming, 50, 25
+Jane Doe, Introduction to web scripting, 60, 25
+Jane Doe, Introduction to Web development, 70, 50
