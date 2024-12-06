@@ -1,7 +1,12 @@
 # Assessments_programing
-Assessments\n
-calc.py\n
-grades.py\n
-loops.py\n
-listops.py\n
+Assessments
+calc.py
+grades.py
+loops.py
+functions.py
+listops.py
 filehandler
+Dicitionaries.py
+Modules
+
+

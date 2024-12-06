@@ -1,4 +1,450 @@
-Britain, along with the other 123 members of the ICC, is responsible for enforcing arrest warrants it issues.
-The Prime Minister’s official spokesman said the Government respected the court and refused to rule out that
-Mr Netanyahu would be arrested if he was to come to Prime the UK, in comments widely interpreted as supportive of
-the decision.
+
+UNIT HANDBOOK
+2024/25
+Unit Title
+Introduction to Programming 
+Unit Number
+6G4Z0006
+Credits
+15 
+Level
+4 
+Unit Leader 
+& 
+Contact Details
+Name:		Jan Shah
+Phone: 	0161 674 6248
+E-mail:	shahj@ucenmanchester.ac.uk
+Programme/Award Title
+FdSc Software Development  
+Academic Year
+2024/2025
+Start Date
+September 2024
+End Date
+Jan 2025
+
+Hand in Dates
+Portfolio
+4th December 2024
+
+Assignment
+17th December 2024
+ 
+ 
+ 
+ 	 
+
+Unit Details & Outline 
+Course Unit Title 
+Introduction to Programming 
+Course Unit Code 
+6G4Z0006
+Unit Occurrence(s) 
+Mode of Study 
+Start Month 
+End Month 
+
+Full Time (FT) 
+September 
+January 
+
+Part Time (PT) 
+September 
+January 
+Level of Study 
+4 
+Credit Value 
+15 
+Home Department 
+School of Computing, Mathematics and Digital Technology 
+Home Faculty 
+Faculty of Science and Engineering 
+Unit Lead 
+Jan Shah 
+Key Words 
+Programming, Software, Algorithms, Testing, Conditionals, Iteration 
+Unit Description 
+Brief Summary 
+This unit introduces fundamental concepts of computer programming.  The unit includes the principles and practice of programming design, the implementation, and testing of programming solutions, and the concepts and principles of problem solving by computer. 
+Indicative Content 
+The unit will introduce the basics of computer programming starting at beginning level and working through to basic object-oriented design with programming languages such as python, C++. The course could include but not limited to basic input output, designing   with pseudo-code, variables, iteration, conditionals, strings, lists/arrays, functions/methods and introduction to object-oriented programming and principles of software design. 
+Resource Requirements 
+Computer, python, IDLE or text editor 
+  
+Learning Outcomes 
+Unit Learning Outcomes 
+On successful completion of this unit students will be able to: 
+
+LO1 
+Apply application syntax and semantics of a programming language to given tasks. 
+
+LO2 
+Analyse programmatic problems and design some simple algorithms to generate solutions to the problems. 
+Summative Assessment 
+No. 
+Weight 
+Type 
+Method 
+Description 
+Submission route 
+Submission week 
+& final 
+component 
+1 
+40% 
+Portfolio 
+Practical
+A portfolio of lab exercises 
+Electronic Submission
+Term 1 Week 14 
+2 
+60% 
+Assignment 
+Written
+A program and report
+Electronic Submission
+Term 1 Week 14
+Learning Activities 
+Breakdown of 
+Student Learning 
+Activity 
+Type of Activity 
+% 
+
+Summative Assessment 
+25 
+
+Directed Study 
+30 
+
+Student-Centred Learning 
+45 
+
+
+Learning Resources 
+Books recommended for purchase by students 
+Dawson, M. (2010) Python programming for the absolute beginner.  
+3rd ed., Boston, MA: Course Technology Inc. 
+ISBN-13: 978- 1435455009 
+Freeman, E. (2018) Head First Learn to Code: A Learner's Guide to Coding and Computational Thinking.  1st ed., O'Reilly Media, Inc. 
+ISBN-13: 978- 1491958858 
+Essential 
+Reading/Resources 
+Charles Severance ‘Python for Everybody’ free online course. Available: 
+https://www.py4e.com/
+PCAP: Python Programming Essentials in Python
+https://www.netacad.com/courses/programming/pcap-programming-essentials-python
+Matthes, E (2019) Python Crash Course, 2nd Edition: A Hands-On, 
+Project-Based Introduction to Programming, No Starch Press 
+ISBN-13: 978-1593279288 
+Further 
+Reading/Resources 
+Seitz, J. (2014) Black Hat Python: Python Programming for Hackers and Pentesters, No Starch Press ISBN-13: 978-1593275907 
+O’Connor, J.T. (2013) Violent Python: A Cookbook for Hackers, 
+Forensic Analysts, Penetration Testers and Security Engineers. 1st ed., Waltham, MA: Syngress.  
+ISBN-13: 978-1597499644 
+Specialist ICTS Resources 
+Software: Python (version 3.0 or above).   
+Additional Requirements 
+Computer/laptop, Internet access from home, external storage 
+Administration
+JACS Code
+i130
+HESA Academic Cost Centre
+100956
+Date of Approval
+June 2020
+Date of Most Recent Consideration
+June 2020
+Unit External Examiner
+Dr Elias Pimenidis
+Unit Assessment Board
+CMDT Tier 1 Boards
+Detailed Week-By-Week Delivery Scheme of work 
+Week No
+Week Commencing
+Activity
+Topic
+1
+16/09/2024
+Lecture/Seminar
+Introduction to unit and assessment 
+2
+23/09/2024
+Lecture/Seminar
+Introduction to GitHub 
+Variables and Input/Output 
+3
+30/09/2024
+Lecture/Seminar
+Conditional statements and Logical Operators 
+4
+07/10/2024
+Lecture/Seminar
+Loops 
+5
+14/10/2024
+Lecture/Seminar
+Functions 
+
+21/10/2024
+Reading Week
+Self-guided study No Taught Sessions 
+6
+28/10/2024
+Lecture/Seminar
+Data Structures (Lists) 
+7
+04/11/2024
+Lecture/Seminar
+File handling 
+8
+11/11/2024
+Lecture/Seminar
+Data Structures (Dictionaries) 
+9
+18/11/2024
+Workshop
+Unit review and assignment support
+10
+25/11/2024
+Lecture/Seminar
+Modular code
+11
+02/12/2024
+Lecture/Seminar
+Debugging 
+4th December Final Portfolio Submission
+5th December Draft Assignment Submission
+12
+09/12/2024
+Lecture/Workshop
+Pseudocode 
+Assignment Formative Feedback
+
+16/12/2024
+Reading Week
+Self-guided study No Taught Sessions
+17th December Final Submissions
+20th December Wellbeing/ Administration Day
+
+23/12/2024
+
+Christmas 
+
+30/12/2024
+
+Christmas 
+
+06/01/2025
+
+Assessment Weeks
+6th January - CPD/ Planning Day
+
+13/01/2025
+
+Assessment Weeks
+
+
+Assessment Brief 1
+Unit Title
+Introduction to Programming
+Level
+4
+Assessment Type & Title
+
+Synthesis Portfolio
+% Weighting
+40%
+
+
+Word count
+(or equivalent)
+
+Programme/Award Title
+FdSc Software Development
+Assignment Title
+Synthesis Portfolio 
+Submission Deadline
+4th December 2024
+Submission Method
+GitHub/Moodle
+Turnitin Instructions for written submissions
+All code must be submitted via Github and linked to in the submission.
+Return Date of Feedback to Students
+15 Working Days
+Learning Outcomes to be assessed (from Unit specification)
+LO1. Evaluate different algorithm techniques, apply the best-suit techniques to solve programmatic problems
+LO2. Analyse programmatic problems and develop algorithms and design purpose to generate a solution to the problems
+Assignment Task
+A continuous collection of in-person lab exercises, which are designed to demonstrate theoretical as well as practical knowledge. The lab exercises will allow for regular assessment of progress and understanding and prepare you for the final submission and other programming related units. 
+The lab exercises will get progressively more difficult. Topics could include but are not limited to basic input-output, designing with pseudo-code, variables, iteration, conditional statements, data types, lists, functions, and modules.  
+
+The submission is a link to the public GitHub repository containing your work. 
+Grade Descriptors
+https://www.utaresources.mmu.ac.uk/example-descriptors/ 
+Penalties for late submission of assessment
+
+At all levels of your programme, students will be permitted to submit a summative assessment up to seven calendar days after the original deadline for a maximum capped mark of 40% for that piece of assessed work.  Any work submitted outside of this window will attain a mark of zero.
+Failure to submit assessment
+
+If you fail to submit an assessment, you will be entitled to a reassessment opportunity in line with University Regulations: https://www.mmu.ac.uk/sites/default/files/2023-08/UG%20Assessment%20Regulations%2023-24_0.pdf
+Exceptional Factors
+There may be times when exceptional, short-term personal circumstances mean that you are unable to submit your coursework by the due date. In such instances, you will need to complete an Exceptional Factors Form explaining the circumstances that affected your ability to submit your coursework by the published submission date.  
+
+You must provide independent documentary evidence supporting your Exceptional Factors application.  A completed form must be emailed to mc@ucenmanchester.ac.uk before the coursework submission date in line with the current Manchester Metropolitan University Policy 
+https://www.mmu.ac.uk/student-life/course/assessments#ai-69991-0.
+
+
+Assessment Brief 2
+Unit Title
+Introduction to Programming
+Level
+4
+Assessment Type & Title
+
+Project and report
+% Weighting
+60%
+
+
+Word count
+(or equivalent)
+1500
+Programme/Award Title
+FdSc Software Development
+Assignment Title
+Cash Machine application and report
+Submission Deadline
+Draft
+5th December 2024
+
+Final
+17th December 2024
+Submission Method
+Moodle
+Turnitin Instructions for written submissions
+All code must be submitted via Github and linked to in the report.
+Return Date of Feedback to Students
+15 Working Days
+Learning Outcomes to be assessed (from Unit Specification)
+LO1. Evaluate different algorithm techniques, apply the best-suit techniques to solve programmatic problems
+LO2. Analyse programmatic problems and develop algorithms and design purpose to generate a solution to the problems
+Assignment Task
+Program
+Your task is to create a cash machine simulation application. The application should allow users to perform simple transactions such as checking their balance, depositing money, withdrawing money, and viewing transaction history. At a basic level, the application should enable users to interact with their account through these fundamental operations. An enhanced version might include features such as multiple account types, PIN authentication, and error handling for invalid transactions.
+
+Report
+A report of ~1500 words should accompany your code. The report should cover the following:
+
+    • A technical discussion of your code and how it works.
+    • A user guide explaining how to use the application.
+    • A discussion of any challenges you faced during development and how you addressed them.
+    • A reflection on the success of your project and possible future improvements.
+
+Assessment Criteria
+Submit your code as a link to a GitHub repository in the report. 
+
+You will be graded as follows
+Code (60%) [LO1] [LO2]
+Functionality and Features (20%)
+    • Basic Operations
+The application should allow users to check their balance, deposit money, withdraw money, and view transaction history.
+Ensure all basic functionalities are implemented and tested thoroughly to handle typical use cases.
+    • Enhanced Features
+Implementation of additional features such as multiple account types, PIN authentication, and error handling for invalid transactions is expected.
+Enhanced features should be well-documented and seamlessly integrated. Consider implementing error handling for edge cases, such as overdrafts or incorrect PIN entries.
+
+User Interface (10%)
+    • Usability
+The application should be easy to use, with clear instructions.
+Create a user-friendly interface or menu with clear instructions. Conduct user testing to identify usability issues and refine the interface based on feedback. 
+    • Interaction
+Interactions with the ATM simulation should be smooth and without significant bugs. Ensure all user interactions are responsive, and that the application provides appropriate feedback for each action.
+
+Code Quality (10%)
+    • Readability and Structure
+The code should be well-organised, commented, and easy to read.
+Write clean, modular code with comments explaining the purpose of key sections. Use consistent naming conventions and avoid redundant code.
+    • Efficiency and Performance
+The code should run efficiently without unnecessary resource consumption. Optimise the code to run efficiently, especially when handling multiple accounts or large transaction histories. Avoid unnecessary computations and memory usage.
+
+Error Handling and Security (10%)
+    • Error Handling
+The application should gracefully handle errors and invalid input without crashing.
+Implement comprehensive error handling to manage invalid inputs, transaction errors, and system failures. Provide clear error messages to guide the user.
+    • Security Measures
+Measures should be in place to protect user information and transaction data. Implement security features such as PIN authentication. Ensure user data is handled securely throughout the application.
+
+Testing and Debugging (10%)
+Testing Coverage
+The application should be thoroughly tested for different scenarios, including edge cases. Develop a comprehensive test plan covering all functionalities, including edge cases.  Use automated testing tools where possible to ensure thorough coverage.  Document the results of your tests in the report.
+Bug Resolution
+Identified bugs should be fixed, and any known issues should be documented. Maintain a bug tracking system and document the resolution of identified issues.  Clearly state any known issues and their potential impact on users.
+
+Report (40%) [LO1] [LO2]
+Technical Discussion (10%)
+Code Explanation
+Clearly explain how the code works, including the logic behind key functionalities. Provide detailed explanations of your code, including flowcharts or diagrams where helpful. Discuss the logic behind important functions and their relationships.
+Implementation Details
+Explain the implementation details and algorithms used. Highlight any innovative approaches or optimisations made during development.
+
+User Guide (10%)
+Instructions for Use
+Write clear, step-by-step instructions for using the application. Include screenshots or examples to illustrate key points.
+
+Challenges and Solutions (5%)
+Development Challenges
+The report should discuss the challenges faced during development. Identify and discuss the major challenges encountered. Explain why these challenges arose and how you addressed them.
+Problem-Solving
+The solutions to these challenges should be well-explained. Provide a detailed account of the solutions implemented to overcome challenges. Highlight any lessons learned during the problem-solving process.
+
+Reflection and Future Improvements (10%)
+    • Project Success
+The report should reflect on the overall success of the project.
+Reflect on what went well and what could have been improved. Discuss the project's strengths and weaknesses objectively.
+    • Future Enhancements
+Potential future improvements and enhancements should be discussed.
+Suggest realistic and practical future improvements. 
+Consider feedback from users and potential new features or optimisations.
+
+Presentation and Clarity (5%)
+    • Organisation and Structure
+The report should be well-organised and logically structured.
+Structure the report clearly with sections and headings. Ensure a logical flow of information from introduction to conclusion.
+    • Clarity of Writing
+The writing should be clear, concise, and free of grammatical errors. 
+Write clearly and concisely, avoiding jargon where possible. Proofread the report to ensure there are no errors. 
+Use Cite them Right Harvard referencing.
+Grade Descriptors
+https://www.utaresources.mmu.ac.uk/example-descriptors/ 
+Penalties for late submission of assessment
+
+At all levels of your programme, students will be permitted to submit a summative assessment up to seven calendar days after the original deadline for a maximum capped mark of 40% for that piece of assessed work.  Any work submitted outside of this window will attain a mark of zero.
+Failure to submit assessment
+
+If you fail to submit an assessment you will be entitled to a reassessment opportunity in line with University Regulations: https://www.mmu.ac.uk/sites/default/files/2024-01/Undergraduate%20Assessment%20Regulations%202023-2024.pdf
+Exceptional Factors
+There may be times when exceptional, short-term personal circumstances mean that you are unable to submit your coursework by the due date. In such instances, you will need to complete Self Certification Extension Form or Evidenced Extension Claim Form explaining the circumstances that affected your ability to submit your coursework by the published submission date.  
+
+An Evidenced Extension Claim Form requires independent documentary evidence to support your claim.  
+A Self-Certification Extension Form must be submitted at least one week before the coursework submission date in line with the current Manchester Metropolitan University Policy. 
+Save and email the completed form to mc@ucenmanchester.ac.uk
+
+https://www.mmu.ac.uk/student-life/course/assessments#ai-69991-0.
+Useful Links
+Manchester Metropolitan University Referencing links
+https://www.mmu.ac.uk/library/referencing-and-study-support/referencing
+https://www.citethemrightonline.com/category-list?docid=CTRHarvard
+Manchester Metropolitan University Assessment Information
+https://www.mmu.ac.uk/student-life/course/assessments 
+UCEN Manchester Policies
+https://www.ucenmanchester.ac.uk/about/policies/he
+UCEN Manchester FutureU
+https://www.ucenmanchester.ac.uk/support/student-support 
+UCEN Manchester Study Skills
+https://www.ucenmanchester.ac.uk/support/study-skills 
+UCEN Manchester Appeals, Bursaries, Extension Requests etc.
+https://www.ucenmanchester.ac.uk/about/degree-course-policies/manchester 
+
