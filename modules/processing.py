@@ -1,23 +1,12 @@
 class Calculator():
-    def add(self, *args):
-        result=0
-        for arg in args:
-            result+=arg
-        return (result, '+')
-    def subtract(self, *args):
-        result=0
-        for arg in args:
-            result-=arg
-        return (result, '-')
-    def multiply(self, *args):
-        result=0
-        for arg in args:
-            result*=arg
-        return (result, '*')
-    def divide(self, *args):
-        result=0
-        for arg in args:
-            result/=arg
-        return (result, '/')
+    def add(self, num1, num2):
+        return (num1+num2, '+')
+    def subtract(self, num1, num2):
+        return (num1-num2, '-')
+    def multiply(self, num1, num2):
+        return (num1*num2, '*')
+    def divide(self, num1, num2):
+
+        return (num1/num2, '/')
     
     
