@@ -12,5 +12,4 @@ def temp_converter():
         print(temp, sign)
     else:
         print("You typed something wrong!")
-        
 temp_converter()

@@ -21,3 +21,5 @@ def ultra_extract_and_rearrange(string):
 # SyntaxError: unterminated string literal (detected at line 19) / extra (")
 print(ultra_extract_and_rearrange("egthb quirock nwoGrb forijmpxv"))
 
+"The quick brown box"
+
