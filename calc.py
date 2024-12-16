@@ -7,6 +7,5 @@ output = f'''
 {first_num} - {second_num} =  {(first_num)-second_num}
 {first_num} * {second_num} =  {(first_num)*second_num}
 {first_num} / {second_num} =  {(first_num)/second_num}
-
 '''
 print(output)

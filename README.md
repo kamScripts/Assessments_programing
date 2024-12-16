@@ -1,5 +1,5 @@
-# Assessments_programing
-Assessments
+# Assessments_programming
+Create Github repository
 calc.py
 grades.py
 loops.py
@@ -8,5 +8,5 @@ listops.py
 filehandler
 Dicitionaries.py
 Modules
-
+Buggy Code
 

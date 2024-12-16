@@ -15,7 +15,7 @@ def count_words(input_file):
     for word in words_arr:
         if word == '':
             continue
-        if word not in words_counted.keys():
+        if word not in words_counted:
             words_counted.update({f'{word}' : 1})
         else:
             words_counted.update({f'{word}' : words_counted.get(word)+1})
